@@ -2,7 +2,7 @@
 - 👀 I’m interested in corpus linguistics, data visualization and speech recognition.
 - 🌱 I’m currently learning about mining text data.
 - 💞️ I’m looking to collaborate on (to be specified).
-- 📫 How to reach me veronika.volna@newtontech.cz
+- 📫 How to reach me veronika.volna(at)newtontech.cz
 
 <!---
 patiolinguist/patiolinguist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
